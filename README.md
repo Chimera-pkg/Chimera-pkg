@@ -4,17 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimera-pkg&label=Profile%20views&color=0e75b6&style=flat" alt="chimera-pkg" /> </p>
 
 
-- 🌱 I’m currently learning **Vue, AI , Machine Learning**
+- 🌱 I’m currently learning **Vue, AI , Machine Learning, IoT**
 
 - 📝 I regularly write articles on [https://medium.com/@adryanmagatsu88](https://medium.com/@adryanmagatsu88)
-
-- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **adryanmagatsu88@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XNz80XJHLY26CloaDtaVoLPR-eIxeJTy/view?usp=sharing](https://drive.google.com/file/d/1XNz80XJHLY26CloaDtaVoLPR-eIxeJTy/view?usp=sharing)
-
-- ⚡ Fun fact **I am Outlier**
 
 <p align="left">
 </p>
